@@ -4,6 +4,10 @@ This Git repository encompasses two projects. A simple text to speech applicatio
 The Text to Speech application features functionality such as, dark or light themes, a custom keyboard with various keyboard layouts, numerous languages, and user customisable speaking rate and pitch.
 
 
+# Note
+To download the [Speech to Text App.zip] and [Text to Speech App.zip] files, left click once on the item within the repository list. Once GitHub has redirected you to the folder, left click once on the "View raw" Hypertext to download the specified file.
+
+
 # What I Learned
 * Android Gradle / JDK / SDK Downgrading
 * Android Shared Preferences (User Settings)
